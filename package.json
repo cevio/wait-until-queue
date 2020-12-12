@@ -1,6 +1,6 @@
 {
   "name": "wait-until-queue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wait until callback done with queue",
   "main": "dist/index.js",
   "files": [
