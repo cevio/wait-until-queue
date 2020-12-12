@@ -9,6 +9,11 @@
   "scripts": {
     "build": "rm -rf ./dist && tsc -d"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cevio/wait-until-queue.git"
+  },
+  "homepage": "https://github.com/cevio/wait-until-queue",
   "devDependencies": {
     "@types/node": "^14.14.12",
     "ts-node": "^9.1.1",
